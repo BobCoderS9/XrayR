@@ -52,7 +52,7 @@ A Xray backend framework that can easily support many panels.
 ## 软件安装
 ### 一键安装
 ```
-wget -N https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/BobCoderS9/XrayR-release/master/install.sh && bash install.sh
 ```
 ### 使用Docker部署软件
 [Docker部署教程](https://crackair.gitbook.io/xrayr-project/xrayr-xia-zai-he-an-zhuang/install/docker)
@@ -73,7 +73,7 @@ wget -N https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/ins
 
 ## Licence
 
-[Mozilla Public License Version 2.0](https://github.com/XrayR-project/XrayR/blob/master/LICENSE)
+[Mozilla Public License Version 2.0](https://github.com/BobCoderS9/XrayR/blob/master/LICENSE)
 
 ## Telgram
 
